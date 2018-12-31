@@ -186,6 +186,7 @@ anuragkanade
 - [Leonardo Alcantara](https://github.com/leonardoalcantara)
 - [Katherine Liuser]
 - [lmidy]
+- [Aditya Sivakumar](https://github.com/Adityaninja/)
 - [sjiang647] (https://github.com/sjiang647)
 - [Olessia Potapova](https://github.com/olessiap)
 - [Inguss Anosovs] (https://github.com/ingussA)
